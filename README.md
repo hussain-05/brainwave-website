@@ -12,14 +12,14 @@
 
 ## Features
 
- **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+ - **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
- **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling.
+ - **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling.
 
- **Complex UI Geometry**: Utilizes Tailwind CSS for intricate shapes like circular feature displays, grid lines, and side lines.
+ - **Complex UI Geometry**: Utilizes Tailwind CSS for intricate shapes like circular feature displays, grid lines, and side lines.
 
- **Latest UI Trends**: Incorporates modern design elements such as bento grids.
+ - **Latest UI Trends**: Incorporates modern design elements such as bento grids.
 
- **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+ - **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
 
- **Responsive**: Ensures seamless functionality and aesthetics across all devices.
+ - **Responsive**: Ensures seamless functionality and aesthetics across all devices.
